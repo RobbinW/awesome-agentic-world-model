@@ -140,6 +140,7 @@ Each proxy function answers a different *question* for the agent, but all return
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2605.10858-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.10858)<br>Is Your Driving World Model an All-Around Player? | CVPR 2026 |
 | `U4D` | [![arXiv](https://img.shields.io/badge/arXiv-2512.02982-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.02982)<br>U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences | CVPR 2026 |
 | `AD-R1` | [![arXiv](https://img.shields.io/badge/arXiv-2511.20325-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.20325)<br>AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models | CVPR 2026 |
+| `SPIRAL` | [![arXiv](https://img.shields.io/badge/arXiv-2603.08403-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.08403)<br>SPIRAL: Self-Evolving Action-Conditioned Video Generation via Reflective Planning Agents | arXiv 2026 |
 
 
 ## Spatial Proxy
@@ -249,7 +250,7 @@ Each proxy function answers a different *question* for the agent, but all return
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2304.03442-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2304.03442)<br>Generative Agents: Interactive Simulacra of Human Behavior | UIST 2023 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2309.02427-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2309.02427)<br>Cognitive Architectures for Language Agents | TMLR 2024 |
 | `Vismem` | [![arXiv](https://img.shields.io/badge/arXiv-2511.11007-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.11007)<br>Vismem: Latent vision memory unlocks potential of vision-language models | arXiv 2025 |
-| `SPIRAL` | [![arXiv](https://img.shields.io/badge/arXiv-2603.08403-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.08403)<br>SPIRAL: Self-Evolving Action-Conditioned Video Generation via Reflective Planning Agents | arXiv 2026 |
+| `MemHarness` | [![arXiv](https://img.shields.io/badge/arXiv-2607.28272-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.28272)<br>MemHarness: Memory Is Reconstructed, Not Replayed | arXiv 2026 |
 
 
 ## Reward / Verification Proxy
