@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/worldbench/awesome-agentic-world-model/pulls) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=worldbench.awesome-agentic-world-model&left_color=gray&right_color=blue) [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b?style=flat&logo=arxiv)](#)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/worldbench/awesome-agentic-world-model/pulls) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=worldbench.awesome-agentic-world-model&left_color=gray&right_color=blue) [![arXiv](https://img.shields.io/badge/arXiv-2608.02713-b31b1b?style=flat&logo=arxiv)](https://arxiv.org/abs/2608.02713)
 
 # Awesome Agentic World Modeling
 
@@ -8,20 +8,6 @@ The taxonomy has two orthogonal axes:
 
 - **Six proxy functions** (*what* feedback the proxy returns): **Dynamics**, **Spatial**, **Execution**, **Memory / Experience**, **Skill**, and **Reward / Verification**.
 - **Three empowerment levels** (*how* the proxy improves the agent): <kbd>L1</kbd> inference-time guidance, <kbd>L2</kbd> training-time optimization, and <kbd>L3</kbd> Agent-Proxy co-evolution.
-
-## Citation
-
-If you find this work useful, please consider citing:
-
-```bibtex
-@article{yang2026worldproxy,
-  title   = {Quo Vadis, World Modeling?},
-  author  = {Yang, Yu and Yang, Xuemeng and Wen, Licheng and Kong, Lingdong and Zhang, Jiangning and Hu, Xiaobin and Lu, Dongyue and Chow, Wei and others},
-  journal = {arXiv preprint arXiv:2608.02713},
-  year    = {2026}
-}
-```
-<!-- TODO: replace XXXX.XXXXX with the arXiv ID and the badge/link above once the paper is posted. -->
 
 ## Call for Contributions
 
@@ -49,6 +35,7 @@ To contribute, open an issue or a pull request:
 - [Evaluation, Fidelity & Safety](#evaluation-fidelity--safety)
 - [Surveys & Related Work](#surveys--related-work)
 - [Additional References](#additional-references)
+- [Citation](#citation)
 
 
 # Background
@@ -375,3 +362,17 @@ Further supporting works cited in the survey.
 # Acknowledgements
 
 This list is maintained alongside the survey. Thanks to all contributors and to the authors of the works listed here.
+
+
+# Citation
+
+If you find this work useful, please consider citing:
+
+```bibtex
+@article{yang2026worldproxy,
+  title   = {Quo Vadis, World Modeling?},
+  author  = {Yu Yang and Xuemeng Yang and Licheng Wen and Lingdong Kong and Xiaobin Hu and Dongyue Lu and Wei Chow and Xiyan Huang and Yuxiang Feng and Yue Liao and Jianbiao Mei and Daocheng Fu and Rong Wu and Pinlong Cai and Ran Yi and Ying Tai and Jiangning Zhang and Botian Shi and Yong Liu and Shuicheng Yan},
+  journal = {arXiv preprint arXiv:2608.02713},
+  year    = {2026}
+}
+```
