@@ -15,9 +15,9 @@ If you find this work useful, please consider citing:
 
 ```bibtex
 @article{yang2026worldproxy,
-  title   = {Quo Vadis, World Modeling? Towards Interactive World Proxies for Continually Improving Agents},
+  title   = {Quo Vadis, World Modeling?},
   author  = {Yang, Yu and Yang, Xuemeng and Wen, Licheng and Kong, Lingdong and Zhang, Jiangning and Hu, Xiaobin and Lu, Dongyue and Chow, Wei and others},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  journal = {arXiv preprint arXiv:2608.02713},
   year    = {2026}
 }
 ```
