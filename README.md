@@ -289,6 +289,21 @@ Each proxy function answers a different *question* for the agent, but all return
 
 | Model | Paper | Venue |
 |:-:|:-|:-:|
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22215-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22215)<br>Dual-Layer Agentic Memory with Fast Write Routing and Slow Consolidation | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22767-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22767)<br>The Retriever Should Remember: Experience-Amortized Reranking for Long-Term Agent Memory | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.21690-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.21690)<br>Context as an Environment: Programmatic Context Management for Long-Horizon Agents | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.28476-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.28476)<br>ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL | EMNLP 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18704-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18704)<br>MemFuse: Multi-Source Memory Fusion from Fragmented Observations | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24876-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24876)<br>Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22793-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22793)<br>TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25500-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25500)<br>CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22610-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22610)<br>Coalition-Aware Skill Reliability for Self-Evolving Agents | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22339-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22339)<br>When Not to Imitate: Boundary-Aware Skill Memory for Reliable Tool-Use LLM Agents | EMNLP 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.20274-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.20274)<br>Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.27454-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.27454)<br>WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25091-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25091)<br>Auto-Policy, not Auto-Skill: Compiled Agent Skills for the Physical World | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24747-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24747)<br>SkillForge: Evolving Verifiable Skills for Reinforcement Learning Agents | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25776-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25776)<br>EVOMAL: Self-Poisoning in Self-Evolving Coding Agents | arXiv 2026 |
 ||
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2305.14992-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2305.14992)<br>Reasoning with Language Model is Planning with World Model | EMNLP 2023 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2304.03442-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2304.03442)<br>Generative Agents: Interactive Simulacra of Human Behavior | UIST 2023 |
@@ -310,6 +325,18 @@ Each proxy function answers a different *question* for the agent, but all return
 
 | Model | Paper | Venue |
 |:-:|:-|:-:|
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.27487-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.27487)<br>Grounded Checklist Partial Credit for Agent Skill Trajectories | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.28128-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.28128)<br>VICT: Verifier-Instrumented Credit Tracing for Long-Horizon LLM Agent Reinforcement Learning | EMNLP 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.29605-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.29605)<br>Hindsight Memory-PRM: Supervising Memory Management with Auditable Hindsight Credit | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23493-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23493)<br>SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning | ICML 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18719-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18719)<br>Competence, Not Accuracy: A Diagnostic for Reference-Free Judge Gates in Skill Optimization | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24087-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24087)<br>Knowing When to Ask for Help: Bayesian Self-Escalation in Hierarchical LLM Agents | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25553-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25553)<br>When Stale Constraints Go Unchecked: Budgeted Verification Failures in Inherited Agent Memory | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.21867-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.21867)<br>MemGuard: Persisting Verifier Signals for LLM-Agent Memory Governance | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19197-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19197)<br>SPADE: Self-Play in Adaptive Synthetic Executable Environments | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19880-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19880)<br>EnvHarness: Awakening Static Worlds for Agent Learning | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23200-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23200)<br>LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22421-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22421)<br>Where World Models Break: Natural-Input Failure Discovery | arXiv 2026 |
 ||
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-1706.03741-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1706.03741)<br>Deep Reinforcement Learning from Human Preferences | NeurIPS 2017 |
 | `Fine` | [![arXiv](https://img.shields.io/badge/arXiv-1909.08593-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1909.08593)<br>Fine-Tuning Language Models from Human Preferences | arXiv 2019 |
@@ -396,6 +423,7 @@ Related surveys and the paper's core position statements.
 | Model | Paper | Venue |
 |:-:|:-|:-:|
 ||
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.29596-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.29596)<br>A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2405.03520-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.03520)<br>Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond | arXiv 2024 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2501.11260-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.11260)<br>A Survey of World Models for Autonomous Driving | arXiv 2025 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.16732-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.16732)<br>A Comprehensive Survey on World Models for Embodied AI | arXiv 2025 |
