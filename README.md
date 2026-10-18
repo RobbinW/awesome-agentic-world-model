@@ -177,6 +177,10 @@ Each proxy function answers a different *question* for the agent, but all return
 | `DreamTrajectory` | [![arXiv](https://img.shields.io/badge/arXiv-2608.01381-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.01381)<br>DreamTrajectory: Trajectory-Guided Action Generation with World Model Alignment for Mobile Manipulation | arXiv 2026 |
 | `EndoWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.01221-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.01221)<br>EndoWAM: A Grounded World-Action Model for Generalizable Endoscopic Navigation | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.11204-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.11204)<br>Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning | arXiv 2026 |
+| `Motus2` | [![arXiv](https://img.shields.io/badge/arXiv-2608.30237-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.30237)<br>Motus2: A Self-Evolving General World Model for Dexterous Manipulation | arXiv 2026 |
+| `LeWM+I` | [![arXiv](https://img.shields.io/badge/arXiv-2610.03137-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.03137)<br>Keeping JEPA World Models Plannable When Little of the Frame Moves | arXiv 2026 |
+| `SufficientPlan` | [![arXiv](https://img.shields.io/badge/arXiv-2610.08350-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.08350)<br>How Much Planning Is Enough? Reducing Search and Computation in World-Model Planning | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2610.19579-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.19579)<br>Back on Track: Deployment-time Policy Improvement via World Model Planning | arXiv 2026 |
 
 
 ## Spatial Proxy
@@ -278,9 +282,13 @@ Each proxy function answers a different *question* for the agent, but all return
 | `NeuralOS` | [![arXiv](https://img.shields.io/badge/arXiv-2507.08800-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.08800)<br>NeuralOS: Towards Simulating Operating Systems via Neural Generative Models | ICLR 2026 |
 | `World-Model` | [![arXiv](https://img.shields.io/badge/arXiv-2602.15384-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.15384)<br>World-Model-Augmented Web Agents with Action Correction | arXiv 2026 |
 | `WebWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2602.14721-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.14721)<br>WebWorld: A Large-Scale World Model for Web Agent Training | arXiv 2026 |
+| `WorldEvolver` | [![arXiv](https://img.shields.io/badge/arXiv-2606.30639-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.30639)<br>Self-Evolving World Models for LLM Agent Planning | arXiv 2026 |
 | `AppDeltaWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2608.05891-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.05891)<br>AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents | arXiv 2026 |
 | `WebRider` | [![arXiv](https://img.shields.io/badge/arXiv-2608.06704-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.06704)<br>WebRider: Persona-Conditioned Intent Controllers for Live-Web Assistance | arXiv 2026 |
 | `Twin` | [![arXiv](https://img.shields.io/badge/arXiv-2608.14490-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.14490)<br>Twin: Playing an Unknown Game with a Test-Time Digital Twin | arXiv 2026 |
+| `WM-R1` | [![arXiv](https://img.shields.io/badge/arXiv-2608.27508-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.27508)<br>WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning | arXiv 2026 |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2609.02885-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.02885)<br>Discriminative World Models for Web Agents | arXiv 2026 |
+| `EvoBelief` | [![arXiv](https://img.shields.io/badge/arXiv-2610.12789-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.12789)<br>EvoBelief: Falsifiable World Models for Self-Improving LLM Agents | arXiv 2026 |
 
 
 ## Memory, Experience & Skill Proxy
@@ -317,6 +325,9 @@ Each proxy function answers a different *question* for the agent, but all return
 | `LUCID` | [![arXiv](https://img.shields.io/badge/arXiv-2608.07746-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.07746)<br>LUCID: Latent-Skill Unified Control via Imagined Dynamics for Long-Horizon Humanoid Loco-Manipulation | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09168-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09168)<br>From Relevance to Execution Utility: Reward-Aware Dynamic Execution Gating for Skill-Based LLM Agents | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18647-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18647)<br>Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation | arXiv 2026 |
+| `TallyMem` | [![arXiv](https://img.shields.io/badge/arXiv-2610.19474-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.19474)<br>Beyond Retrieval: Evidence Access and Event Aggregation in Agent Memory | arXiv 2026 |
+| `MemComposer` | [![arXiv](https://img.shields.io/badge/arXiv-2610.21091-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.21091)<br>MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning | arXiv 2026 |
+| `MemScope` | [![arXiv](https://img.shields.io/badge/arXiv-2610.21170-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.21170)<br>MemScope: Evolving Agent Memory Architectures through Localized Code Repair | arXiv 2026 |
 
 
 ## Reward / Verification Proxy
@@ -363,6 +374,7 @@ Each proxy function answers a different *question* for the agent, but all return
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.07280-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.07280)<br>Why Study Emergent Behavior When You Can Regulate It? Aligning Multi-Agent Systems with Reward Prediction | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.05643-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.05643)<br>Refining Over Resampling: Test-Time Self-Correction for LLM Reasoning | arXiv 2026 |
 | `ARC` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13622-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13622)<br>ARC: Fair Relative Advantage Comparison in Open-Ended Real-World Interaction | arXiv 2026 |
+| `LGWM` | [![arXiv](https://img.shields.io/badge/arXiv-2610.11942-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.11942)<br>Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents | arXiv 2026 |
 
 
 # Empowerment Levels (L1 / L2 / L3)
@@ -414,6 +426,7 @@ Benchmarks and metrics for world models, fidelity and calibration limits, and th
 | `CG` | [![arXiv](https://img.shields.io/badge/arXiv-2607.26452-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.26452)<br>CG-World: A Large-Scale World-State Dataset and Protocol for World Models | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2607.27017-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.27017)<br>What Can Latent World Models Know? Physical Parameter Identifiability in Multimodal Predictive Representations | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.14481-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.14481)<br>Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes | arXiv 2026 |
+| `StateAliasBench` | [![arXiv](https://img.shields.io/badge/arXiv-2609.32679-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.32679)<br>The GUI Is Not the State: Diagnosing State Aliasing in GUI World Models | arXiv 2026 |
 
 
 # Surveys & Related Work
