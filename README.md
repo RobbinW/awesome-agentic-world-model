@@ -295,7 +295,6 @@ Each proxy function answers a different *question* for the agent, but all return
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.28476-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.28476)<br>ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL | EMNLP 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18704-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18704)<br>MemFuse: Multi-Source Memory Fusion from Fragmented Observations | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24876-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24876)<br>Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses | arXiv 2026 |
-| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.29596-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.29596)<br>Towards a Systems Foundation for Agentic Skills: Architecture, Lifecycle, and Security | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22793-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22793)<br>TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25500-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25500)<br>CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22610-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22610)<br>Coalition-Aware Skill Reliability for Self-Evolving Agents | arXiv 2026 |
@@ -424,6 +423,7 @@ Related surveys and the paper's core position statements.
 | Model | Paper | Venue |
 |:-:|:-|:-:|
 ||
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.29596-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.29596)<br>A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2405.03520-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.03520)<br>Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond | arXiv 2024 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2501.11260-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.11260)<br>A Survey of World Models for Autonomous Driving | arXiv 2025 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2510.16732-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.16732)<br>A Comprehensive Survey on World Models for Embodied AI | arXiv 2025 |
